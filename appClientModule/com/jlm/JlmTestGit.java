@@ -5,7 +5,7 @@ public class JlmTestGit {
 	
 	private JlmTestGit(){
 		
-		this.classNo = "Ver001";
+		this.classNo = "Ver002";
 		
 	}
 				
